@@ -1,0 +1,25 @@
+{ "name": "p-each-series-cjs",
+  "version": "2.2.0",
+  "description": "Alias package for the latest CommonJS version of p-each-series",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/p-each-series-cjs/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/p-each-series-cjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/p-each-series-cjs/issues"
+  },
+
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "dependencies": {
+    "p-each-series": "^2.2.0"
+  },
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}

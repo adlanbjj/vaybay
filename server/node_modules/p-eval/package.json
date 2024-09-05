@@ -1,0 +1,32 @@
+{ "name": "p-eval",
+  "version": "0.1.0",
+  "description": "Evil eval() in a promise, with the stack cut.",
+  "keywords": [
+    "eval",
+    "promise"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/p-eval-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/p-eval-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/p-eval-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "eval.js",
+  "scripts": { "test": "nodejs test/all.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
